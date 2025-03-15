@@ -1,0 +1,16 @@
+{
+  "name": "pos58mmprinter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node runner.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@point-of-sale/receipt-printer-encoder": "^3.0.2",
+    "@point-of-sale/system-receipt-printer": "^2.0.1"
+  }
+}
